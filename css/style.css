@@ -426,32 +426,32 @@ a.icon {
 }
 
 .header-one {
-  background: url('../images/header-bg.jpg') no-repeat;
-  height: 40vh !important;
+  background: url('../images/bg3-2.jpg') no-repeat;
+  height: 25vh !important;
   min-height: 600px;
-  padding-top: 150px !important;
+  padding-top: 125px !important;
 }
 .header-two {
-  background: url('../images/header-bg.jpg') no-repeat;
-  height: 40vh !important;
+  background: url('../images/bg2-1.jpg') no-repeat;
+  height: 30vh !important;
   min-height: 600px;
   padding-top: 150px !important;
 }
 .header-three {
-  background: url('../images/header-bg.jpg') no-repeat;
-  height: 40vh !important;
+  background: url('../images/bg2-2.jpg') no-repeat;
+  height: 30vh !important;
   min-height: 600px;
   padding-top: 150px !important;
 }
 .header-four {
-  background: url('../images/header-bg.jpg') no-repeat;
-  height: 40vh !important;
+  background: url('../images/bg3-1.jpg') no-repeat;
+  height: 30vh !important;
   min-height: 600px;
   padding-top: 150px !important;
 }
 .header-five {
-  background: url('../images/header-bg.jpg') no-repeat;
-  height: 40vh !important;
+  background: url('../images/bg2-3.jpg') no-repeat;
+  height: 30vh !important;
   min-height: 600px;
   padding-top: 150px !important;
 }
